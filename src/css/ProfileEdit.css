@@ -1,0 +1,11 @@
+Button {
+    margin: 15px;
+}
+
+Input {
+    border-radius: 5px;
+}
+
+.ant-input {
+    border-radius: 15px;
+}

@@ -1,0 +1,11 @@
+#Form {
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 700px;
+}
+
+.ant-input {
+    border-radius: 15px;
+}
